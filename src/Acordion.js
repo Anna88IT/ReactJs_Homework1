@@ -1,4 +1,3 @@
-// import React from "react";
 import "./Acordion.css";
 import {Elements} from "./Elements";
 import {Questions} from "./Questions";
