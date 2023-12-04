@@ -1,7 +1,7 @@
 import React, {useState} from "react";
 import "./Acordion.css";
 
-export const Elements = ({title, text,  }) => {
+export const Elements = ({title, text}) => {
 
     const [val, setVal] = useState(true);
 
